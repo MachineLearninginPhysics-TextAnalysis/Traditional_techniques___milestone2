@@ -1,4 +1,4 @@
-# milestone2--traditional-techniques
+# Traditional-techniques_(milestone_2)
 We want to apply the traditional techniques (not Neural Networks) to the data that we prepared. We have changed the algorithm of our advanced processing method. Actually, we have found a better way to make the input and more accuracy will be achieved. So, we will show the processed data in a new way (the raw data is not changed; we just change the processing method).
 
 First, see the folder entitled 'New Advanced Processing Method'. In this folder, you will understand that we have found a better way to make the features of our data. This new method, will be more efficient.
